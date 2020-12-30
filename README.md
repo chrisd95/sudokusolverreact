@@ -1,3 +1,4 @@
-# sudokusolverreact
-sudoku solver app in react native
+# Sudoku Solver in React Native
+Sudoku Solver
 
+Live demo at:
