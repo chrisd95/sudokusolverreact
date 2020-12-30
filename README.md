@@ -1,6 +1,6 @@
 # Sudoku Solver in React Native
 Sudoku Solver
 
-![](giphy.gif)
+![](sudokusolverdemo.gif)
 
 Live demo at:
