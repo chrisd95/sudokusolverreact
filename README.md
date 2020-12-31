@@ -5,6 +5,26 @@ Sudoku Solver
 
 ![](sudokusolverdemoanimated.gif)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #Features Instant Solve
 ![](sudokusolverdemoresized.gif)
 
