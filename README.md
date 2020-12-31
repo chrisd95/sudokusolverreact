@@ -5,5 +5,10 @@ Sudoku Solver
 
 ![](sudokusolveranimation.gif) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](sudokusolverdemoresized.gif)  
 
+
+
+
+
+
 Expo link:
 https://expo.io/@dchris95/projects/SudokuSolverReact
