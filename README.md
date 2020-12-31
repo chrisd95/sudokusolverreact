@@ -3,18 +3,7 @@ Sudoku Solver
 
 #Features Animated Sudoku Solving
 
-![](sudokusolverdemoanimated.gif)
-
-
-
-
-
-
-
-
-
-
-
+![](sudokusolverdemoresized.gif) ![](sudokusolveranimation.gif)
 
 
 
