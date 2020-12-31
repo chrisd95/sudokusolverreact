@@ -1,20 +1,8 @@
 # Sudoku Solver in React Native
 Sudoku Solver
 
-#Features Animated Sudoku Solving
+#Features Animated Sudoku Solving                                               #Instant Solving
 
-![](sudokusolverdemoresized.gif) ![](sudokusolveranimation.gif)
+![](sudokusolveranimation.gif)                                                  ![](sudokusolverdemoresized.gif)  
 
-
-
-
-
-
-
-
-
-
-#Features Instant Solve
-
-
-Live demo at:
+Live Demo At:
