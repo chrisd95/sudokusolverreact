@@ -26,7 +26,6 @@ Sudoku Solver
 
 
 #Features Instant Solve
-![](sudokusolverdemoresized.gif)
 
 
 Live demo at:
