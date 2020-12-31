@@ -3,6 +3,6 @@ Sudoku Solver
 
 #Features Animated Sudoku Solving                                               #Instant Solving
 
-![](sudokusolveranimation.gif)                                                  ![](sudokusolverdemoresized.gif)  
+![](sudokusolveranimation.gif)                                                    ![](sudokusolverdemoresized.gif)  
 
 Live Demo At:
